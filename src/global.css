@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: var(--colorBackground);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+:root {
+    --colorBackground: rgb(232, 162, 238);
+}
